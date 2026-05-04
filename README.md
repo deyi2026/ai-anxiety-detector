@@ -1,4 +1,4 @@
-# 🧠 Anxiety Detector
+# AI 焦虑检测器 — Anxiety Detector
 
 **Behavioral pattern monitor for AI agents — detects when an agent enters "anxious-urgent" execution mode.**
 
